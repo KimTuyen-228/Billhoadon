@@ -29,6 +29,6 @@ menu = {
     "Chả giò": 79000,
     "Bò nướng mỡ chài": 139000,
     "Tôm sốt mắm tắc": 139000,
-    "🍟 Khoai Tây Chiên": 35000,
-    "🍜 Mì Trộn": 45000,
-    "🥤 Nước Ngọt": 15000
+    "Khoai Tây Chiên": 35000,
+    "Tôm nướng sa tế": 149000,
+    "Nước Ngọt": 15000
