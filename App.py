@@ -22,13 +22,13 @@ st.divider()
 # MENU
 # ==========================================
 menu = {
-    "🍕 Pizza Hải Sản": 120000,
-    "🍝 Mì Ý Bò Bằm": 50000,
-    "🍔 Burger Gà": 65000,
-    "🥗 Salad Trộn": 50000,
-    "🥩 Bít Tết Bò Mỹ": 250000,
-    "🍖 Sườn Nướng BBQ": 180000,
-    "🍗 Cánh Gà Chiên Mắm": 75000,
+    "Lẩu Thái Hải Sản": 199000,
+    "Lẩu Thập Cẩm": 199000,
+    "Lẩu Mắm": 199000000,
+    "Gỏi ngó sen tai heo": 89000,
+    "Chả giò": 79000,
+    "Bò nướng mỡ chài": 139000,
+    "Tôm sốt mắm tắc": 139000,
     "🍟 Khoai Tây Chiên": 35000,
     "🍜 Mì Trộn": 45000,
     "🥤 Nước Ngọt": 15000
